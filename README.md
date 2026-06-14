@@ -56,22 +56,22 @@ Model yang sudah selesai dilatih dapat digunakan untuk melakukan prediksi terhad
 
 RiceClassificationProject
 
-├── download_dataset.py
-├── preprocessing.py
-├── reduce_dataset.py
-├── train.py
-├── evaluate.py
-├── predict.py
-├── grafik.py
-├── requirements.txt
+download_dataset.py
+preprocessing.py
+reduce_dataset.py
+train.py
+evaluate.py
+predict.py
+grafik.py
+requirements.txt
 
-├── hasil
-│ ├── accuracy_graph.png
-│ ├── loss_graph.png
-│ └── confusion_matrix.png
-
-└── model
-└── rice_resnet50.h5
+hasil
+  accuracy_graph.png
+  loss_graph.png
+  confusion_matrix.png
+  
+model
+  rice_resnet50.h5
 
 ## Instalasi
 
