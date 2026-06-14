@@ -101,8 +101,21 @@ python evaluate.py
 6. Melakukan prediksi gambar:
 python predict.py
 
+## Model
 
-## Hasil Model
+Model hasil training menggunakan arsitektur ResNet50 disimpan dalam format HDF5 dengan nama:
+rice_resnet50.h5
+
+
+Karena ukuran file model cukup besar sehingga tidak dapat diunggah langsung ke repository GitHub, file model disimpan pada Google Drive.
+Model dapat diakses melalui link berikut:
+
+Link Model:
+https://drive.google.com/drive/folders/1TVjtKm2vEwjPGMMqJMAVDV_pcfnNvJv5?usp=sharing 
+
+Model tersebut dapat digunakan untuk melakukan prediksi gambar tanpa perlu melakukan training ulang.
+
+#Hasil Model
 
 Model berhasil melakukan klasifikasi terhadap 5 jenis beras.
 
